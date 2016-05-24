@@ -5,4 +5,4 @@
 Реализован контейнер графа + итераторы ребер, вершин, исходящих ребер и парочка алгоритов обхода в глубину и ширину.
 
 ### Скриншот
-!(https://raw.githubusercontent.com/xotonic/alg-rgr/master/HRst6fM0LZc.jpg)
+![](HRst6fM0LZc.jpg)
